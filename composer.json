@@ -1,0 +1,16 @@
+{
+    "name": "darshanpatani/startertemplate",
+    "description": "This is a starter theme built with Webpack and Composer.",
+    "autoload": {
+        "psr-4": {
+            "darshanpatani\\Wordpress\\Theme\\StarterTemplate\\": "includes/class/"
+        }
+    },
+    "authors": [
+        {
+            "name": "darshanpatani",
+            "email": "darshan.patni.9@gmail.com"
+        }
+    ],
+    "require": {}
+}
